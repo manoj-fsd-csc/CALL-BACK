@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(156, 11, 11);
+    display: flex;
+    justify-content: center;
+}
+#id{
+    color: chartreuse;
+    font-size: xx-large;
+
+}
+
+
